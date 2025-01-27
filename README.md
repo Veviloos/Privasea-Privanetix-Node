@@ -92,7 +92,7 @@ cd ..
 docker run  -d   -v "/privasea/config:/app/config" -e KEYSTORE_PASSWORD=123456 privasea/acceleration-node-beta:latest
 ```
 
-### Check Node Health
+### Check Logs
 
 ```
 docker logs -f CONTAINER ID
