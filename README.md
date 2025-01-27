@@ -1,6 +1,6 @@
 <h2 align=center>Privasea Privanetix Node</h2>
 
-![image](https://github.com/user-attachments/assets/91a772f2-c88c-4ce5-8556-9558941498ec)
+![image](https://github.com/Veviloos/Privasea-Privanetix-Node/blob/main/Screenshot_20250127_115013_X.jpg)
 
 
 ## Minimum System Requirements
